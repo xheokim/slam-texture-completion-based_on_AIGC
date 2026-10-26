@@ -1,0 +1,41 @@
+# ---------- data & generated artifacts ----------
+data/
+outputs/
+*.ply
+*.npz
+*.npy
+*.log
+
+# ---------- third-party source (install separately, see README) ----------
+slam/ORB_SLAM3/
+slam/Pangolin/
+Vocabulary/
+
+# ---------- IDE ----------
+.idea/
+.vscode/
+*.iml
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# ---------- build artifacts ----------
+build/
+Build/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.a
+*.so
+*.d
+*.make
+
+# ---------- secrets ----------
+.env
+*.key
