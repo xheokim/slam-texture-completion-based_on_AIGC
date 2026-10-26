@@ -1,7 +1,7 @@
 # SLAM Map Texture Completion Based on Generation AI
 
 Master's Thesis — City University of Hong Kong, MSc Artificial Intelligence  
-**Author:** JIN Haoran (haoranjin3)  
+**Author:** XheoKim  
 **Date:** July 2026
 
 ---
@@ -303,7 +303,7 @@ python evaluation/visualize.py
 ```bibtex
 @mastersthesis{jin2026slamtexture,
   title   = {SLAM Map Texture Completion Based on Generation AI},
-  author  = {Jin, Haoran},
+  author  = {xheoKim},
   school  = {City University of Hong Kong},
   year    = {2026}
 }
